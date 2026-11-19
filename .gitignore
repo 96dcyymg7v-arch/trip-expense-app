@@ -1,0 +1,9 @@
+# 배포에는 앱 실행 파일만 올려요
+tests/
+preview/
+deploy-pages.sh
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+*.log
